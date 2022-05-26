@@ -1,4 +1,4 @@
-# Welcome to our github organization!
+# Welcome to our github!
 
 - ### 👥We are group of people from modern generation of modding trying to make cool and modern stuff for minecraft!
 - ### ♾You can find here any type of modpack.
